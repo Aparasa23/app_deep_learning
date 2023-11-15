@@ -1,10 +1,4 @@
 # T81 558:Applications of Deep Neural Networks
-[Washington University in St. Louis](http://www.wustl.edu)
-
-Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
-
-* Section 1. Fall 2023, Monday, 2:30 PM, Location: Louderman/461
-* Section 2. Fall 2023, Online
 
 # Course Description
 
