@@ -1,0 +1,28 @@
+name: torch
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+    - python=3.9
+    - pip>=19.0
+    - pytorch 
+    - torchvision 
+    - torchaudio
+    - jupyter
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - ipykernel
+    - pip:
+        - bayesian-optimization
+        - facenet-pytorch
+        
